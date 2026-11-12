@@ -1,13 +1,12 @@
 {
   "source_url": "https://dom.org.cy/AWS/OpenData/CyDoM.xml",
-  "last_attempt_utc": "2026-11-12T04:16:41.789471+00:00",
-  "collection_slot_utc": "2026-11-12T04:10:00+00:00",
-  "parsed_feed_observation_count": 409,
+  "last_attempt_utc": "2026-11-12T12:49:06.289613+00:00",
+  "collection_slot_utc": "2026-11-12T12:40:00+00:00",
+  "parsed_feed_observation_count": 417,
   "stations_tracked": 55,
-  "stations_reporting": 52,
+  "stations_reporting": 53,
   "stations_not_reporting": [
-    "ALONOUDI",
-    "FRENAROS",
+    "KPYRGOS",
     "TEPAK"
   ],
   "new_national_rows_added": 55,
