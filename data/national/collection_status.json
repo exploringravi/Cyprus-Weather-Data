@@ -1,12 +1,13 @@
 {
   "source_url": "https://dom.org.cy/AWS/OpenData/CyDoM.xml",
-  "last_attempt_utc": "2026-11-19T07:24:24.704217+00:00",
-  "collection_slot_utc": "2026-11-19T07:20:00+00:00",
-  "parsed_feed_observation_count": 428,
+  "last_attempt_utc": "2026-11-19T16:40:51.541851+00:00",
+  "collection_slot_utc": "2026-11-19T16:40:00+00:00",
+  "parsed_feed_observation_count": 416,
   "stations_tracked": 55,
-  "stations_reporting": 54,
+  "stations_reporting": 53,
   "stations_not_reporting": [
-    "ALONOUDI"
+    "ALONOUDI",
+    "LIMASSOL"
   ],
   "new_national_rows_added": 55,
   "new_station_folder_rows_added": 55,
